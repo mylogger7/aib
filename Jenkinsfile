@@ -1,9 +1,10 @@
 
 node('maven label'){
-stage(){
+stage('prepare'){
+  git "url"
 }
 
 
 
-}
+
 

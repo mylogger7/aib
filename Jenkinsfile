@@ -1,5 +1,9 @@
-node(){
+
+node('maven label'){
 stage(){
 }
+
+
+
 }
 
